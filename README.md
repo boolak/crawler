@@ -1,2 +1,5 @@
 ## cheerio + node + node-xlsx
-1. use cheerio to crawl website
+#
+description: use cheerio to crawl website
+1. npm i
+2. node crawler.js
